@@ -8,7 +8,6 @@ Console.WriteLine("Input the first number");
 int numberA = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine("Input the second number");
 int numberB = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine("Input the first number");
 int max = numberA;
 int min = numberB;
 if (numberA > numberB) max = numberA;
