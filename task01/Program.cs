@@ -7,5 +7,6 @@ int max = numberA;
 if (numberA > numberB ) max = numberA;
 if (numberB > numberA ) max = numberB;
 if (numberC > numberA ) max = numberC;
+if (numberB > numberC ) max = numberB;
 Console.Write("max = ");
 Console.WriteLine(max);
