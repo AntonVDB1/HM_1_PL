@@ -7,11 +7,11 @@ Console.WriteLine("Input a number");
 int numberA = Convert.ToInt32(Console.ReadLine());
 if ( numberA % 2 == 0)
 {
-Console.Write(" --> even integer ");
+Console.Write(" -->YES ");
 }
 else
 {
-Console.Write(" --> odd intiger ");    
+Console.Write(" -->NO ");    
 }
 
 
